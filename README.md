@@ -194,4 +194,8 @@ that should talk to AI? Want a product built end to end? **We want to hear from 
   <a href="https://www.cloudpeakify.com"><img src="https://img.shields.io/badge/Get%20in%20touch-cloudpeakify.com-06b6d4?style=for-the-badge" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/cloudpeakify"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20pizza&emoji=%F0%9F%8D%95&slug=cloudpeakify&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a pizza" height="48" /></a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:1e3a8a,100:0f172a" width="100%" />
