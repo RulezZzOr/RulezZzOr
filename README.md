@@ -153,21 +153,14 @@ infrastructure** — stratum servers, pool software, CUDA miners and a mining OS
 
 ## 🧪 Open source
 
-<p align="center">
-  <a href="https://github.com/RulezZzOr/ordercore-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RulezZzOr&repo=ordercore-examples&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/RulezZzOr/opensepiaRS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RulezZzOr&repo=opensepiaRS&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/RulezZzOr/BlockFinderPool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RulezZzOr&repo=BlockFinderPool&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/RulezZzOr/hornik"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RulezZzOr&repo=hornik&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/RulezZzOr/jarvis-dashboard-rs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RulezZzOr&repo=jarvis-dashboard-rs&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/RulezZzOr/reaMOJE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RulezZzOr&repo=reaMOJE&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-</p>
-
 | Project | What it is |
 | --- | --- |
-| 🤖 **opensepiaRS** | Autonomous AI dev team — 9 Claude agents plan sprints, code, review, test and deploy, 24/7 |
-| ⛏️ **BlockFinderPool** | Bitcoin solo-hunter node for small LAN fleets, written in Rust |
-| 🐝 **hornik** | Open-source mining OS prototype for Antminer S19-class hardware |
-| 📊 **jarvis-dashboard-rs** | Obsidian dashboard for Claude Code sessions, agent fleets and 30-day analytics |
+| 🛒 [**ordercore-examples**](https://github.com/RulezZzOr/ordercore-examples) | Give your AI agent a retry-safe checkout tool in 5 minutes — offline, no signup |
+| 🔬 [**reaMOJE**](https://github.com/RulezZzOr/reaMOJE) | Reverse engineer anything with agents, from app behaviour down to native binaries |
+| 🤖 [**opensepiaRS**](https://github.com/RulezZzOr/opensepiaRS) | Autonomous AI dev team — 9 Claude agents plan sprints, code, review, test and deploy, 24/7 |
+| ⛏️ [**BlockFinderPool**](https://github.com/RulezZzOr/BlockFinderPool) | Bitcoin solo-hunter node for small LAN fleets, written in Rust |
+| 🐝 [**hornik**](https://github.com/RulezZzOr/hornik) | Open-source mining OS prototype for Antminer S19-class hardware |
+| 📊 [**jarvis-dashboard-rs**](https://github.com/RulezZzOr/jarvis-dashboard-rs) | Obsidian dashboard for Claude Code sessions, agent fleets and 30-day analytics |
 
 ## 🛠️ Stack
 
@@ -178,12 +171,12 @@ infrastructure** — stratum servers, pool software, CUDA miners and a mining OS
 ## 📈 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RulezZzOr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulezZzOr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RulezZzOr&theme=tokyonight" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RulezZzOr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06b6d4&line=1e3a8a&point=ffffff&area=true" width="100%" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=RulezZzOr&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RulezZzOr&theme=tokyonight" alt="Languages" />
 </p>
 
 <picture>
